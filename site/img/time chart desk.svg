@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="175.14178mm"
+   height="96.412605mm"
+   viewBox="0 0 175.14178 96.412605"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="time chart desk.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.3416246"
+     inkscape:cx="339.51375"
+     inkscape:cy="105.09646"
+     inkscape:window-width="2560"
+     inkscape:window-height="1348"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1067" />
+  <defs
+     id="defs2">
+    <clipPath
+       id="clip0">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect824" />
+    </clipPath>
+    <clipPath
+       id="clip1">
+      <rect
+         x="115"
+         y="102"
+         width="2101"
+         height="900"
+         id="rect827" />
+    </clipPath>
+    <clipPath
+       id="clip2">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect830" />
+    </clipPath>
+    <clipPath
+       id="clip3">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect833" />
+    </clipPath>
+    <clipPath
+       id="clip4">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect836" />
+    </clipPath>
+    <clipPath
+       id="clip5">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect839" />
+    </clipPath>
+    <clipPath
+       id="clip6">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect842" />
+    </clipPath>
+    <clipPath
+       id="clip7">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect845" />
+    </clipPath>
+    <clipPath
+       id="clip8">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect848" />
+    </clipPath>
+    <clipPath
+       id="clip9">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect851" />
+    </clipPath>
+    <clipPath
+       id="clip10">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect854" />
+    </clipPath>
+    <clipPath
+       id="clip11">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect857" />
+    </clipPath>
+    <clipPath
+       id="clip12">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect860" />
+    </clipPath>
+    <clipPath
+       id="clip13">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect863" />
+    </clipPath>
+    <clipPath
+       id="clip14">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect866" />
+    </clipPath>
+    <clipPath
+       id="clip15">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect869" />
+    </clipPath>
+    <clipPath
+       id="clip16">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect872" />
+    </clipPath>
+    <clipPath
+       id="clip17">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect875" />
+    </clipPath>
+    <clipPath
+       id="clip18">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect878" />
+    </clipPath>
+    <clipPath
+       id="clip19">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect881" />
+    </clipPath>
+    <clipPath
+       id="clip20">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect884" />
+    </clipPath>
+    <clipPath
+       id="clip21">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect887" />
+    </clipPath>
+    <clipPath
+       id="clip22">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect890" />
+    </clipPath>
+    <clipPath
+       id="clip23">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect893" />
+    </clipPath>
+    <clipPath
+       id="clip24">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect896" />
+    </clipPath>
+    <clipPath
+       id="clip25">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect899" />
+    </clipPath>
+    <clipPath
+       id="clip26">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect902" />
+    </clipPath>
+    <clipPath
+       id="clip27">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect905" />
+    </clipPath>
+    <clipPath
+       id="clip28">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect908" />
+    </clipPath>
+    <clipPath
+       id="clip29">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect911" />
+    </clipPath>
+    <clipPath
+       id="clip30">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect914" />
+    </clipPath>
+    <clipPath
+       id="clip31">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect917" />
+    </clipPath>
+    <clipPath
+       id="clip32">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect920" />
+    </clipPath>
+    <clipPath
+       id="clip33">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect923" />
+    </clipPath>
+    <clipPath
+       id="clip34">
+      <rect
+         x="0"
+         y="0"
+         width="2240"
+         height="1260"
+         id="rect926" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       clip-path="url(#clip0)"
+       id="g1067"
+       transform="matrix(0.07970391,0,0,0.07970391,-1.3226784,-2.2071607)"
+       style="stroke-width:3.31958">
+      <g
+         clip-path="url(#clip1)"
+         id="g933"
+         style="stroke-width:3.31958">
+        <path
+           d="M 153.004,213.006 H 253.007 V 1001 H 153.004 Z M 328.009,656.017 H 428.011 V 1001 H 328.009 Z m 175.004,57.002 H 603.016 V 1001 H 503.013 Z m 175.005,26 H 778.02 V 1001 H 678.018 Z m 175.004,64.002 H 953.025 V 1001 H 853.022 Z m 174.008,86.002 h 100 V 1001 h -100 z m 175,60.002 h 100 V 1001 h -100 z m 175.01,46.001 h 100 V 1001 h -100 z m 175,2 h 100 V 1001 h -100 z m 175.01,2.974 h 100 v 1 h -100 z m 175,0 h 100 v 1 h -100 z m 175,0 h 100.01 v 1 h -100.01 z"
+           fill="#d62828"
+           id="path931"
+           style="stroke-width:11.0196" />
+      </g>
+      <g
+         clip-path="url(#clip2)"
+         id="g937"
+         style="stroke-width:3.31958">
+        <path
+           d="M 115,1001 H 2214"
+           stroke="#d9d9d9"
+           stroke-width="5.80926"
+           stroke-linejoin="round"
+           stroke-miterlimit="10"
+           fill="none"
+           fill-rule="evenodd"
+           id="path935" />
+      </g>
+      <g
+         clip-path="url(#clip3)"
+         id="g941"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="translate(177.177,193)"
+           id="text939"
+           style="stroke-width:11.0196">2191</text>
+      </g>
+      <g
+         clip-path="url(#clip4)"
+         id="g945"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="translate(351.415,635)"
+           id="text943"
+           style="stroke-width:11.0196">960</text>
+      </g>
+      <g
+         clip-path="url(#clip5)"
+         id="g949"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="translate(526.401,693)"
+           id="text947"
+           style="stroke-width:11.0196">800</text>
+      </g>
+      <g
+         clip-path="url(#clip6)"
+         id="g953"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="translate(703.037,718)"
+           id="text951"
+           style="stroke-width:11.0196">730</text>
+      </g>
+      <g
+         clip-path="url(#clip7)"
+         id="g957"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="translate(876.989,782)"
+           id="text955"
+           style="stroke-width:11.0196">552</text>
+      </g>
+      <g
+         clip-path="url(#clip8)"
+         id="g961"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="translate(1056.73,868)"
+           id="text959"
+           style="stroke-width:11.0196">312</text>
+      </g>
+      <g
+         clip-path="url(#clip9)"
+         id="g965"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="translate(1230.33,929)"
+           id="text963"
+           style="stroke-width:11.0196">144</text>
+      </g>
+      <g
+         clip-path="url(#clip10)"
+         id="g969"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="translate(1413.93,975)"
+           id="text967"
+           style="stroke-width:11.0196">16</text>
+      </g>
+      <g
+         clip-path="url(#clip11)"
+         id="g973"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="translate(1588.94,977)"
+           id="text971"
+           style="stroke-width:11.0196">10</text>
+      </g>
+      <g
+         clip-path="url(#clip12)"
+         id="g977"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="translate(1769.04,980)"
+           id="text975"
+           style="stroke-width:11.0196">2</text>
+      </g>
+      <g
+         clip-path="url(#clip13)"
+         id="g981"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="translate(1947.51,980)"
+           id="text979"
+           style="stroke-width:11.0196">1</text>
+      </g>
+      <g
+         clip-path="url(#clip14)"
+         id="g985"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="translate(2098.74,980)"
+           id="text983"
+           style="stroke-width:11.0196">0.78</text>
+      </g>
+      <g
+         clip-path="url(#clip15)"
+         id="g989"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="translate(66.3021,1009)"
+           id="text987"
+           style="stroke-width:11.0196">0</text>
+      </g>
+      <g
+         clip-path="url(#clip16)"
+         id="g993"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="translate(31.2319,829)"
+           id="text991"
+           style="stroke-width:11.0196">500</text>
+      </g>
+      <g
+         clip-path="url(#clip17)"
+         id="g997"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="translate(22.2953,649)"
+           id="text995"
+           style="stroke-width:11.0196">1000</text>
+      </g>
+      <g
+         clip-path="url(#clip18)"
+         id="g1001"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="translate(22.2953,469)"
+           id="text999"
+           style="stroke-width:11.0196">1500</text>
+      </g>
+      <g
+         clip-path="url(#clip19)"
+         id="g1005"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="translate(15.1669,289)"
+           id="text1003"
+           style="stroke-width:11.0196">2000</text>
+      </g>
+      <g
+         clip-path="url(#clip20)"
+         id="g1009"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="translate(15.1669,110)"
+           id="text1007"
+           style="stroke-width:11.0196">2500</text>
+      </g>
+      <g
+         clip-path="url(#clip21)"
+         id="g1013"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="rotate(-45,1403.6981,356.56461)"
+           id="text1011"
+           style="stroke-width:11.0196">Hexifi</text>
+      </g>
+      <g
+         clip-path="url(#clip22)"
+         id="g1017"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="rotate(-45,1590.8881,386.05188)"
+           id="text1015"
+           style="stroke-width:11.0196">Jade_Green_Tears</text>
+      </g>
+      <g
+         clip-path="url(#clip23)"
+         id="g1021"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="rotate(-45,1643.0136,89.49875)"
+           id="text1019"
+           style="stroke-width:11.0196">Xotic_Hammy</text>
+      </g>
+      <g
+         clip-path="url(#clip24)"
+         id="g1025"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="rotate(-45,1740.394,-97.799579)"
+           id="text1023"
+           style="stroke-width:11.0196">BuilderBoyHarry</text>
+      </g>
+      <g
+         clip-path="url(#clip25)"
+         id="g1029"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="rotate(-45,1843.9524,-269.28491)"
+           id="text1027"
+           style="stroke-width:11.0196">AnnieTheTeaLover</text>
+      </g>
+      <g
+         clip-path="url(#clip26)"
+         id="g1033"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="rotate(-45,1894.1026,-571.31183)"
+           id="text1031"
+           style="stroke-width:11.0196">RoozlePoozle</text>
+      </g>
+      <g
+         clip-path="url(#clip27)"
+         id="g1037"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="rotate(-45,1987.6725,-766.48178)"
+           id="text1035"
+           style="stroke-width:11.0196">JUICY_onions</text>
+      </g>
+      <g
+         clip-path="url(#clip28)"
+         id="g1041"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="rotate(-45,2067.3092,-996.29843)"
+           id="text1039"
+           style="stroke-width:11.0196">Chef_Ravioli</text>
+      </g>
+      <g
+         clip-path="url(#clip29)"
+         id="g1045"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="rotate(-45,2128.7812,-1271.031)"
+           id="text1043"
+           style="stroke-width:11.0196">OddFella</text>
+      </g>
+      <g
+         clip-path="url(#clip30)"
+         id="g1049"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="rotate(-45,2278.4115,-1331.82)"
+           id="text1047"
+           style="stroke-width:11.0196">PrettyMuchPoison</text>
+      </g>
+      <g
+         clip-path="url(#clip31)"
+         id="g1053"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="rotate(-45,2358.0733,-1561.697)"
+           id="text1051"
+           style="stroke-width:11.0196">CormacAmerica</text>
+      </g>
+      <g
+         clip-path="url(#clip32)"
+         id="g1057"
+         style="stroke-width:3.31958">
+        <text
+           fill="#ffffff"
+           font-family="Poppins, Poppins_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="28px"
+           transform="rotate(-45,2371.3419,-1952.223)"
+           id="text1055"
+           style="stroke-width:11.0196">Kenok</text>
+      </g>
+    </g>
+  </g>
+</svg>

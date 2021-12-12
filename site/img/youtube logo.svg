@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="144.498mm"
+   height="144.498mm"
+   viewBox="0 0 144.498 144.498"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="youtube logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.67081229"
+     inkscape:cx="184.10515"
+     inkscape:cy="-123.73059"
+     inkscape:window-width="2560"
+     inkscape:window-height="1348"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     width="144.498mm" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1301"
+       style="fill:#ffffff;stroke-width:1;stroke-linecap:square;paint-order:stroke markers fill"
+       d="m 72.248822,21.449 c 0,0 -45.185568,9e-5 -56.454438,3.03909 C 9.57747,26.16079 4.681302,31.08831 3.019454,37.34571 2.9e-5,48.6876 0,72.35184 0,72.35184 c 0,0 2.9e-5,23.66372 3.019454,35.00561 1.661848,6.2574 6.558016,10.98003 12.77493,12.65246 11.26887,3.039 56.454438,3.03909 56.454438,3.03909 0,0 45.185558,-9e-5 56.454428,-3.03909 6.21692,-1.67243 11.11309,-6.39506 12.77493,-12.65246 3.01943,-11.34189 3.01946,-35.00561 3.01946,-35.00561 0,0 -3e-5,-23.66424 -3.01946,-35.00613 -1.66184,-6.2574 -6.55801,-11.18518 -12.77493,-12.85762 C 117.43465,21.44909 72.248822,21.449 72.248822,21.449 Z m -14.77843,29.41785 37.76669,21.4855 -37.76669,21.48448 z" />
+  </g>
+</svg>
