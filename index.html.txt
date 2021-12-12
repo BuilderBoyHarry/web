@@ -1,0 +1,8 @@
+<html>
+  <head>
+    <meta http-equiv="Refresh" content="0; url='site'" />
+  </head>
+  <body>
+    <p>To access the website, please follow <a href="site">this link</a>.</p>
+  </body>
+</html>
